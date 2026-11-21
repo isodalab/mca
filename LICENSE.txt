@@ -1,0 +1,67 @@
+MCA - Mono Compatibility Analyzer
+IsodaLab
+Freeware License (November 21, 2026)
+© 2026 Dr. Hideki Isoda / All Rights Reserved.
+
+Developed by Dr. Hideki Isoda at Texas Tech University.
+Created as a contribution to the global audio community, this software is
+provided free of charge to support audio professionals, educators,
+students, and researchers worldwide.
+
+MCA ("the Software") is free of charge but it is not open source.
+This license applies to MCA version 1.1.0 for Windows (VST3),
+macOS (VST3 and Audio Unit) and Linux (VST3 and LV2), and to later
+versions released under it.
+By installing or using the Software you agree to the terms below.
+
+1. USE
+   You may install and use the Software, free of charge, on any number of
+   computers, for any purpose: personal, educational or commercial. Audio
+   you process, mix or master with the Software is entirely yours; no credit
+   or royalty is owed.
+
+2. SHARING
+   You may copy and give away the unmodified download packages (the
+   Windows and Linux install packages and the macOS installer), provided
+   that they are free of charge and that this license, the copyright
+   notice and the IsodaLab and MCA names and branding stay intact.
+
+3. RESTRICTIONS
+   You may not sell, rent or sublicense the Software, bundle it with a paid
+   product, or distribute it under another name. You may not modify,
+   decompile or reverse engineer it, except where applicable law expressly
+   allows this regardless of this restriction.
+
+4. PRIVACY
+   The Software collects no data. It makes no network connections, has no
+   analytics or telemetry, needs no account, registration or license key,
+   and never sends anything anywhere. To support the MIDI switch, the plugin
+   listens to the MIDI controllers connected to your computer; this happens
+   only locally and nothing is recorded. The plugin's settings are stored
+   only inside your DAW project.
+
+5. OWNERSHIP
+   The Software is licensed, not sold. All rights not expressly granted here
+   are reserved by the copyright holder. Future versions may be released
+   under different terms; this version stays available under this license.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHOR OR TEXAS TECH UNIVERSITY BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT
+   OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+   THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+8. THIRD-PARTY COMPONENTS
+   The Software is built with the JUCE framework (https://juce.com), used
+   under the JUCE licence, and uses VST3 technology by Steinberg Media
+   Technologies GmbH. VST is a registered trademark of Steinberg Media
+   Technologies GmbH. Audio Units is a trademark of Apple Inc.
+   Linux is a registered trademark of Linus Torvalds.
+   The macOS and Linux versions embed the Barlow typeface, Copyright 2017
+   The Barlow Project Authors (https://github.com/jpt/barlow), licensed
+   under the SIL Open Font License 1.1 (https://openfontlicense.org).
