@@ -31,7 +31,7 @@ MCA is a VST3 plug-in for **Windows**, a VST3 and Audio Unit plug-in for **Macs 
 |---|---|---|
 | **Windows** | [IsodaLab-MCA-1.1.0-Windows.zip](https://github.com/isodalab/mca/releases/download/v1.1.0/IsodaLab-MCA-1.1.0-Windows.zip) | 64-bit Windows 10 or 11, a VST3 host |
 | **macOS** | [IsodaLab-MCA-1.1.0-macOS-AppleSilicon.pkg](https://github.com/isodalab/mca/releases/download/v1.1.0/IsodaLab-MCA-1.1.0-macOS-AppleSilicon.pkg) | Mac with Apple silicon (M1 or later), macOS 11 or later, a VST3 or Audio Unit host |
-| **Linux** | [IsodaLab-MCA-1.1.0-Linux-x86_64.tar.gz](https://github.com/isodalab/mca/releases/download/v1.1.0/IsodaLab-MCA-1.1.0-Linux-x86_64.tar.gz) | 64-bit Linux (x86_64), glibc 2.35 or later (Ubuntu 22.04+, Debian 12, Fedora 36+, Arch, …), a VST3 or LV2 host |
+| **Linux** | [IsodaLab-MCA-1.1.0-Linux-x86_64.zip](https://github.com/isodalab/mca/releases/download/v1.1.0/IsodaLab-MCA-1.1.0-Linux-x86_64.zip) | 64-bit Linux (x86_64), glibc 2.35 or later (Ubuntu 22.04+, Debian 12, Fedora 36+, Arch, …), a VST3 or LV2 host |
 
 The Windows and Linux packages contain the plug-in, a step-by-step install guide, the Quick Start guide and the license; the Linux package adds a small install script. The macOS installer puts both the VST3 and the Audio Unit in place. [SHA256SUMS.txt](https://github.com/isodalab/mca/releases/download/v1.1.0/SHA256SUMS.txt) lists the checksums. There is no account and no license key; installation takes about a minute.
 
@@ -93,7 +93,7 @@ MCA is free and isn't code-signed with a paid certificate, so Windows treats it 
 1. **Extract** the download with your file manager, or in a terminal:
 
    ```bash
-   tar xzf IsodaLab-MCA-1.1.0-Linux-x86_64.tar.gz
+   unzip IsodaLab-MCA-1.1.0-Linux-x86_64.zip
    ```
 
 2. **Run the install script** from the extracted folder:
